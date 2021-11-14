@@ -5,7 +5,7 @@
 After completing the original analysis that has predicted a "silver tsunami" as Pewlett Hackard employees start to reach retirement age, our team was tasked to look deeper into the possible effects at a hierarchical level and ways to possibly mittigate the negative impact that a mass retirement of employees. We were specifically asked to find out the number of retirement age individuals by job title. We were also tasked with identifying employees that would be candidates for a mentoring program to assist new and younger employees as the company will have to adjust to this "silver tsunami".
 
 ## Results
-Our analysis provided the following conclusions
+Our analysis provided the following conclusions:
   - Roughly 38% of Hewlett Packard employees are reaching retirement age
   - 50% of those who are near retirement age are Engineers
   - 45% have Staff titles
