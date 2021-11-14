@@ -6,11 +6,11 @@ After completing the original analysis that has predicted a "silver tsunami" as 
 
 ## Results
 Our analysis provided the following conclusions
-    - Roughly 38% of Hewlett Packard employees are reaching retirement age
-    - 50% of those who are near retirement age are Engineers
-    - 45% have Staff titles
-    - 64% of employees nearing retirement age are have senority titles
-    - There are only 1,549 employees matching the criteria are eligible for the mentorship program
+  - Roughly 38% of Hewlett Packard employees are reaching retirement age
+  - 50% of those who are near retirement age are Engineers
+  - 45% have Staff titles
+  - 64% of employees nearing retirement age are have senority titles
+  - There are only 1,549 employees matching the criteria are eligible for the mentorship program
 
 ![retiring_titles](analysis/retiring_titles.png)
 
